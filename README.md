@@ -176,7 +176,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 ### Networking
 
-- [ ] [TCP/IP Illustrated, Volume 1](https://www.amazon.com/TCP-Illustrated-Protocols-Addison-Wesley-Professional/dp/0321336313)
+- [x] [TCP/IP Illustrated, Volume 1](https://www.amazon.com/TCP-Illustrated-Protocols-Addison-Wesley-Professional/dp/0321336313)
 
 ### Troubleshooting and Performance
 
