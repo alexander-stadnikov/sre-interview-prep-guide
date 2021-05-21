@@ -186,5 +186,5 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 ## Courses
 
 - [ ] [Site Reliability Engineering: Measuring and Managing Reliability](https://www.coursera.org/learn/site-reliability-engineering-slos)
-- [ ] [School of SRE](https://linkedin.github.io/school-of-sre)
+- [x] [School of SRE](https://linkedin.github.io/school-of-sre)
 
