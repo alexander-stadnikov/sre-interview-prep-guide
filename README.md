@@ -170,9 +170,9 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 ### Linux
 
-- [ ] [Linux Kernel Development (3rd Edition)](https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468)
-- [ ] [UNIX and Linux System Administration Handbook (5th Edition)](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554)
-- [ ] [Linux Pocket Guide, 3rd Edition](http://shop.oreilly.com/product/0636920040927.do)
+- [x] [Linux Kernel Development (3rd Edition)](https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468)
+- [x] [UNIX and Linux System Administration Handbook (5th Edition)](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554)
+- [x] [Linux Pocket Guide, 3rd Edition](http://shop.oreilly.com/product/0636920040927.do)
 
 ### Networking
 
@@ -181,7 +181,6 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 ### Troubleshooting and Performance
 
 - [ ] [Systems Performance: Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098)
-- [ ] [Systems Performance, 2nd Edition](https://www.informit.com/store/systems-performance-9780136820154?ranMID=24808)
 
 ## Courses
 
