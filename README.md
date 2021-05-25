@@ -110,7 +110,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 - [ ] [Crack the System Design Interview](https://www.puncsky.com/blog/2016/02/14/crack-the-system-design-interview)
 - [ ] [System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview)
 - [ ] [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
-- [ ] [What's in a Production Web Application?](https://stephenmann.io/post/whats-in-a-production-web-application)
+- [x] [What's in a Production Web Application?](https://stephenmann.io/post/whats-in-a-production-web-application)
 
 ## Monitoring
 
