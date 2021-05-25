@@ -102,13 +102,6 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 - [ ] [Go Design Patterns](https://github.com/tmrts/go-patterns)
 - [ ] [Go Memory Management](https://povilasv.me/go-memory-management)
 
-### Big O Notation, Algorithms and Data Structures
-
-- [ ] [AlgoExperts](https://www.algoexpert.io)
-- [ ] [Hacking a Google Interview – Handout 1](http://courses.csail.mit.edu/iap/interview/Hacking_a_Google_Interview_Handout_1.pdf)
-- [ ] [Hacking a Google Interview – Handout 2](http://courses.csail.mit.edu/iap/interview/Hacking_a_Google_Interview_Handout_2.pdf)
-- [ ] [Hacking a Google Interview – Handout 3](http://courses.csail.mit.edu/iap/interview/Hacking_a_Google_Interview_Handout_3.pdf)
-
 ## System design
 
 - [ ] [SystemsExpert course from AlgoExpert](https://www.algoexpert.io/se/product)
