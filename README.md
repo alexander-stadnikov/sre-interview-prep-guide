@@ -80,9 +80,9 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 ## Clouds
 
-- [ ] [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
-- [ ] [Learning Azure](https://docs.microsoft.com/en-us/learn/azure/)
-- [ ] [Hands-On Training with GCP](https://cloud.google.com/training/badges)
+- [x] [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
+- [x] [Learning Azure](https://docs.microsoft.com/en-us/learn/azure/)
+- [x] [Hands-On Training with GCP](https://cloud.google.com/training/badges)
 
 ## Programming
 
