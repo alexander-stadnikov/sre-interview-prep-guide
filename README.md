@@ -100,7 +100,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 - [x] [Getting up and running with Go](http://www.golangprograms.com)
 - [ ] [Effective Go](https://golang.org/doc/effective_go.html)
 - [ ] [Go Design Patterns](https://github.com/tmrts/go-patterns)
-- [ ] [Go Memory Management](https://povilasv.me/go-memory-management)
+- [x] [Go Memory Management](https://povilasv.me/go-memory-management)
 
 ## System design
 
