@@ -107,7 +107,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 - [x] [SystemsExpert course from AlgoExpert](https://www.algoexpert.io/se/product)
 - [x] [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
 - [x] [The System Design Primer](https://github.com/donnemartin/system-design-primer)
-- [ ] [Crack the System Design Interview](https://www.puncsky.com/blog/2016/02/14/crack-the-system-design-interview)
+- [x] [Crack the System Design Interview](https://www.puncsky.com/blog/2016/02/14/crack-the-system-design-interview)
 - [x] [System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview)
 - [x] [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 - [x] [What's in a Production Web Application?](https://stephenmann.io/post/whats-in-a-production-web-application)
