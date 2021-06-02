@@ -95,7 +95,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 ### Go (Golang)
 
 - [x] [A tour of Go](https://tour.golang.org)
-- [ ] [Go by Example](https://gobyexample.com)
+- [x] [Go by Example](https://gobyexample.com)
 - [ ] [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
 - [x] [Getting up and running with Go](http://www.golangprograms.com)
 - [ ] [Effective Go](https://golang.org/doc/effective_go.html)
